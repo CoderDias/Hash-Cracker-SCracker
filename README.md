@@ -42,7 +42,7 @@ scrack.py <hash_string> <min_length> <max_length> --chars=<custom_chars> OU --wo
 
 - Python **2.7.x**+
 
-# Disclaimer
+### Disclaimer
 
 ```
 THE SCRIPT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
