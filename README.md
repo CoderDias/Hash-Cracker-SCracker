@@ -11,7 +11,7 @@ Quebrar hash com wordlist automatica.
 
 
 ## Uso do script
-[!] Uso : scrack.py <hash> <min_length> <max_length> --chars=<abcde> OU --wordlist=<wordlist_template> --type=<md5|sha1|sha512>
+[!] Uso : scrack.py <hash_string> <min_length> <max_length> --chars=<custom_chars> OU --wordlist=<wordlist_template> --type=<md5|sha1|sha512>
 
 [-] Argumentos
  1. hash => hash que deseja quebrar
