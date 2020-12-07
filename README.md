@@ -7,7 +7,7 @@ Quebrar hash com wordlist automatica.
 
 @SecurityBreaker
 
-{GitHub : https://github.com/CoderDias/}
+{GitHub : https://github.com/CoderDias/ }
 
 
 ## Uso do script
