@@ -1,5 +1,4 @@
 # SolyCrack
-> Quebrar hash com wordlist automatica.
 
 > @Author : Soly <br>
 > @Version : 1.1<br>
