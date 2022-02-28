@@ -1,11 +1,11 @@
-# SolyCrack
+# SCracker
 
 > @Author : Soly <br>
 > @Version : 1.1<br>
-> @SecurityBreaker<br>
+> @CoderDias<br>
 
 ```
-Official GitHub : https://github.com/CoderDias/SolyCrack
+Official GitHub : https://github.com/CoderDias/Hash-Cracker-SCracker
 ```
 
 ## Uso do script
